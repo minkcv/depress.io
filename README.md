@@ -44,3 +44,4 @@
 [![](https://img.shields.io/badge/gradle-grunt-yellow.svg)]()
 [![](https://img.shields.io/badge/jinja-null-green.svg)]()
 [![](https://img.shields.io/badge/Ctrl--Alt-Delete-red.svg)]()
+[![](https://img.shields.io/badge/label_A:-goto_A-blue.svg)]()
