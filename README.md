@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/strongly_typed_language-of_course_not-red.svg)]()
 [![](https://img.shields.io/badge/framework_made_yesterday-definitely-orange.svg)]()
 [![](https://img.shields.io/badge/learning_machine-learning-blue.svg)]()
-[![](https://img.shields.io/badge/overly_ambitions_readme-yup-brightgreen.svg)]()
+[![](https://img.shields.io/badge/overly_ambitious_readme-yup-brightgreen.svg)]()
 [![](https://img.shields.io/badge/money_wasted_on_coding_bootcamps-$1.4mil-brightgreen.svg)]()
 [![](https://img.shields.io/badge/platform-only_macbooks-lightgray.svg)]()
 [![](https://img.shields.io/badge/coffee-way_too_much-yellowgreen.svg)]()
