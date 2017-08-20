@@ -1,5 +1,3 @@
-# depress.io
-
 [![](https://img.shields.io/badge/build-meh-brightgreen.svg)]()
 [![](https://img.shields.io/badge/badges-lots-brightgreen.svg)]()
 [![](https://img.shields.io/badge/memes-dank-brightgreen.svg)]()
@@ -42,6 +40,22 @@
 [![](https://img.shields.io/badge/ez_fix-:(){_:|:_&_};:-blue.svg)]()
 [![](https://img.shields.io/badge/tabs-spaces-orange.svg)]()
 [![](https://img.shields.io/badge/gradle-grunt-yellow.svg)]()
-[![](https://img.shields.io/badge/jinja-null-green.svg)]()
 [![](https://img.shields.io/badge/Ctrl--Alt-Delete-red.svg)]()
 [![](https://img.shields.io/badge/label_A:-goto_A-blue.svg)]()
+[![](https://img.shields.io/badge/kopaka-passing-green.svg)]()
+[![](https://img.shields.io/badge/jinja-passing-green.svg)]()
+[![](https://img.shields.io/badge/pohatu-passing-green.svg)]()
+[![](https://img.shields.io/badge/gijgo-passing-green.svg)]()
+[![](https://img.shields.io/badge/mojito-passing-green.svg)]()
+[![](https://img.shields.io/badge/takanuva-passing-green.svg)]()
+[![](https://img.shields.io/badge/wakanda-passing-green.svg)]()
+[![](https://img.shields.io/badge/brutos-passing-green.svg)]()
+[![](https://img.shields.io/badge/agavi-passing-green.svg)]()
+[![](https://img.shields.io/badge/kohana-passing-green.svg)]()
+[![](https://img.shields.io/badge/silex-passing-green.svg)]()
+[![](https://img.shields.io/badge/ignika-passing-green.svg)]()
+
+
+# depress.io
+
+A half stack javascript framework for the modern necessity for javascript frameworks. 
