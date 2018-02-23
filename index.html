@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Artisanal Code Barn</title>
+    <style>
+        body, html {
+            margin: 0;
+            font: 400 15px/1.8 "Lato", sans-serif;
+            height: 100%;
+        }
+        .caption {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+            color: #000;
+        }
+        .caption span.border {
+            background-color: #111;
+            color: #fff;
+            padding: 18px;
+            font-size: 30px;
+            letter-spacing: 10px;
+        }
+        .parallax { 
+            /* Set a specific height */
+            height: 100%; 
+            position: relative;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .break {
+            position: relative;
+            background-color:#ddd;
+            color:#282E34;
+            padding:50px 80px;
+            font-size: 25px;
+        }
+        .left {
+            text-align: left;
+        }
+        .right {
+            text-align: right;
+        }
+        .center {
+            text-align: center;
+        }
+        .img1 {
+            background-image: url("https://i.imgur.com/EIzdGC6.jpg");
+            min-height: 400px;
+        }
+        .img2 {
+            background-image: url("https://i.imgur.com/0dltfRW.jpg");
+            min-height: 400px;
+        }
+        .img3 {
+            background-image: url("https://i.imgur.com/Q5Szmyq.jpg");
+            min-height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div class="parallax img1">
+        <div class="caption">
+            <span class="border">
+                Want your own parallax website like this?
+            </span>
+        </div>
+    </div>
+    <div class="break left">
+        <p>Too Bad. I'm not going to make one for you.</p>
+    </div>
+    <div class="parallax img2">
+        <div class="caption">
+            <span class="border">
+                It's really not that hard.
+            </span>
+        </div>
+    </div>
+    <div class="break center">
+        <p>Do it yourself.</p>
+    </div>
+    <div class="parallax img3">
+        <div class="caption">
+            <span class="border">
+                This coffee costs $9 a cup.
+            </span>
+        </div>
+    </div>
+    <div class="break left">
+        <p>I'm going to spill it on my $3000 computer.</p>
+    </div>
+</body>
+</html>
